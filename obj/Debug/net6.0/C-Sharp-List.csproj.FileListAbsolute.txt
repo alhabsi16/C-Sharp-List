@@ -1,0 +1,15 @@
+C:\Users\TRA\source\repos\C-Sharp-List\C-Sharp-List\bin\Debug\net6.0\C-Sharp-List.exe
+C:\Users\TRA\source\repos\C-Sharp-List\C-Sharp-List\bin\Debug\net6.0\C-Sharp-List.deps.json
+C:\Users\TRA\source\repos\C-Sharp-List\C-Sharp-List\bin\Debug\net6.0\C-Sharp-List.runtimeconfig.json
+C:\Users\TRA\source\repos\C-Sharp-List\C-Sharp-List\bin\Debug\net6.0\C-Sharp-List.dll
+C:\Users\TRA\source\repos\C-Sharp-List\C-Sharp-List\bin\Debug\net6.0\C-Sharp-List.pdb
+C:\Users\TRA\source\repos\C-Sharp-List\C-Sharp-List\obj\Debug\net6.0\C-Sharp-List.csproj.AssemblyReference.cache
+C:\Users\TRA\source\repos\C-Sharp-List\C-Sharp-List\obj\Debug\net6.0\C-Sharp-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\source\repos\C-Sharp-List\C-Sharp-List\obj\Debug\net6.0\C-Sharp-List.AssemblyInfoInputs.cache
+C:\Users\TRA\source\repos\C-Sharp-List\C-Sharp-List\obj\Debug\net6.0\C-Sharp-List.AssemblyInfo.cs
+C:\Users\TRA\source\repos\C-Sharp-List\C-Sharp-List\obj\Debug\net6.0\C-Sharp-List.csproj.CoreCompileInputs.cache
+C:\Users\TRA\source\repos\C-Sharp-List\C-Sharp-List\obj\Debug\net6.0\C-Sharp-List.dll
+C:\Users\TRA\source\repos\C-Sharp-List\C-Sharp-List\obj\Debug\net6.0\refint\C-Sharp-List.dll
+C:\Users\TRA\source\repos\C-Sharp-List\C-Sharp-List\obj\Debug\net6.0\C-Sharp-List.pdb
+C:\Users\TRA\source\repos\C-Sharp-List\C-Sharp-List\obj\Debug\net6.0\C-Sharp-List.genruntimeconfig.cache
+C:\Users\TRA\source\repos\C-Sharp-List\C-Sharp-List\obj\Debug\net6.0\ref\C-Sharp-List.dll
